@@ -91,7 +91,7 @@ if (mysqli_num_rows($user_result) == 1) {
 
         if (mysqli_num_rows($manager_result) > 0) {
             // User is a manager, display the "Add Member" button
-            echo '<a href="add_member.php" class="btn btn-primary">Add Member</a>';
+            echo '<a href="manager.php" class="btn btn-primary">Manager</a>';
         }
     } else {
         echo "<p>You are not associated with any mess.</p>";

@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1> website under construction </h1>
+    <h1> Website Under Construction </h1>
 </body>
 </html>
